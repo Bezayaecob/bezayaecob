@@ -4,7 +4,7 @@
 
 # Hi, I'm Beza👋
 
-**Fullstack Engineer · Aspiring Researcher · Raconteur **
+  Fullstack Engineer · Aspiring Researcher · Raconteur 
 
 </div>
 
