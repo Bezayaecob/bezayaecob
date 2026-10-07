@@ -6,9 +6,9 @@
 
 </div>
 <div align="center">
-                Fullstack Engineer · Aspiring Researcher · Raconteur 
+             <h3> Fullstack Engineer · Aspiring Researcher · Raconteur </h3>  
 </div>
----
+
 
 ## About Me
 I build backends that hold up under load and interfaces people enjoy using, and I'm now going deeper into machine learning research to understand how intelligent systems actually work.
@@ -18,7 +18,7 @@ I build backends that hold up under load and interfaces people enjoy using, and 
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,nestjs,nextjs,react,py,fastapi,go,mongodb,supabase,firebase,mysql&perline=12" width="100%" alt="skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,nestjs,nextjs,react,py,fastapi,go,mongodb,supabase,firebase,mysql&perline=12" width="65%" alt="skills" />
 
 ---
 
