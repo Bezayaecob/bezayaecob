@@ -1,8 +1,9 @@
 <div align="center">
-
-<img src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" alt="animation" />
-
 # Hi, I'm Beza👋
+
+<img src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="animation" />
+
+
 
   Fullstack Engineer · Aspiring Researcher · Raconteur 
 
@@ -18,7 +19,7 @@ I build backends that hold up under load and interfaces people enjoy using, and 
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,nestjs,nextjs,react,py,fastapi,go,mongodb,supabase,firebase,mysql&perline=6" alt="skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,nestjs,nextjs,react,py,fastapi,go,mongodb,supabase,firebase,mysql&perline=12" width="100%" alt="skills" />
 
 ---
 
