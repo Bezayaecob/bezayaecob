@@ -1,14 +1,13 @@
-<div align="center">
 # Hi, I'm Beza👋
+<div align="center">
+
 
 <img src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="animation" />
 
-
-
-  Fullstack Engineer · Aspiring Researcher · Raconteur 
-
 </div>
-
+<div align="center">
+                Fullstack Engineer · Aspiring Researcher · Raconteur 
+</div>
 ---
 
 ## About Me
